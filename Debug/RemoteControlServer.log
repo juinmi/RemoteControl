@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018-07-18 10:50:44。
+     1>项目“D:\RemoteControl\RemoteControlServer\RemoteControlServer\RemoteControlServer.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\RemoteControlServer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+       Manifest:
+         所有输出均为最新。
+         所有输出均为最新。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\RemoteControlServer.unsuccessfulbuild”。
+         正在对“Debug\RemoteControlServer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\RemoteControl\RemoteControlServer\RemoteControlServer\RemoteControlServer.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.10
