@@ -10,6 +10,8 @@ public:
 	CConsole(void);
 	~CConsole(void);
 
+	string GetProgramFlie() {return m_programFile;}
+
 private:
 	string m_programFile;
 	vector<CProcedure> m_procedures;
